@@ -35,6 +35,6 @@
         <property name="password" value=""/>
     </bean>
 
-    <bean id="mainClass" class="org.dharma.spring.main.SpringJpaApp">
+    <bean id="productDao" class="org.dharma.spring.dao.ProductDao">
     </bean>
 </beans>
