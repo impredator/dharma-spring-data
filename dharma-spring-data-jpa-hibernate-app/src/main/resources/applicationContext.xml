@@ -30,7 +30,7 @@
           destroy-method="close">
         <property name="driverClassName" value="org.postgresql.Driver"/>
         <property name="url"
-                  value="jdbc:postgresql://127.0.0.1:5432/dharma_mall_app"/>
+                  value="jdbc:postgresql://127.0.0.1:5432/dharma_mall"/>
         <property name="username" value="tester"/>
         <property name="password" value=""/>
     </bean>
